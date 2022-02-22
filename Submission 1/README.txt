@@ -1,5 +1,4 @@
-Youtube Video Link:
-https://youtu.be/iH2mcugHeBE
+Youtube Video Link: https://youtu.be/iH2mcugHeBE
 
 Submitted by:
 Md. Rezuwan Hassan
