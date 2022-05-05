@@ -15,8 +15,8 @@ Conference Submission Date: May 10, 2022
 Group Number: 11
 
 Group Members:
-Md. Rezuwan Hassan (21266014)
 Shafin Mahmud Jalal (21266017)
+Md. Rezuwan Hassan (21266014)
 Pranto Protim Choudhury (21266023)
 Fahmida Yesmin (21366012)
 A.K.M. Salman Hosain (22166033)
