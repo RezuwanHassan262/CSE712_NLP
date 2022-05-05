@@ -1,8 +1,7 @@
 Paper title:
-Depression Detection from Tweets Using Deep Learning and NLP
+Social Media Sentiment Analysis with Explainable AI
 
-Link to the paper:
-https://www.overleaf.com/8568727196gjyghtpfdhfx
+
 
 Group Number:
 11
