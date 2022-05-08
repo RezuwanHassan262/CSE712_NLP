@@ -12,6 +12,8 @@ Conference URL:https://icaisc.eu
 
 Conference Submission Date: May 10, 2022
 
+Youtube Link: https://youtu.be/mzWq0TXVt9o
+
 Group Number: 11
 
 Group Members:
