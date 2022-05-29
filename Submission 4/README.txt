@@ -4,13 +4,17 @@ Social Media Sentiment Analysis with Explainable AI
 
 Github submission link: https://github.com/RezuwanHassan262/CSE712_NLP/tree/main/Submission%204
 
-Conference submitted paper / paper submission / login Link:https://icaisc.eu/Submission#submission
+Code Link: https://colab.research.google.com/drive/1RsyihyTzWXUazknmNTuWQ_A_RhnW6LQt?usp=sharing 
+
+Unlisted YouTube Video link: https://youtu.be/Rl6pBPu83no 
+
+Conference submitted paper / paper submission / login Link:https://icaisc.eu/Submission#submission 
 
 Conference Name:The 21st International Conference on Artificial Intelligence and Soft Computing 
 
-Conference URL:https://icaisc.eu
+Conference URL:https://icaisc.eu 
 
-Conference Submission Date: May 05, 2022
+Conference Submission Date: May 10, 2022
 
 Slide Link: https://docs.google.com/presentation/d/1YJW5KXXQC24o_MgBu-j8cVF5N2VCZ6lOirvkK33kFdc/edit?usp=sharing
 
