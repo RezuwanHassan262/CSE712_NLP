@@ -6,6 +6,8 @@ Github submission link: https://github.com/RezuwanHassan262/CSE712_NLP/tree/main
 
 Code Link: https://colab.research.google.com/drive/1RsyihyTzWXUazknmNTuWQ_A_RhnW6LQt?usp=sharing 
 
+Overleaf Link: https://www.overleaf.com/project/62409893d057a30a188ed11d
+
 Unlisted YouTube Video link: https://youtu.be/Rl6pBPu83no 
 
 Conference submitted paper / paper submission / login Link:https://icaisc.eu/Submission#submission 
